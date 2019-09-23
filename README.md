@@ -10,9 +10,13 @@ This is a continuation of the previous continuation (by Pipakin) of SOS.
 
 ## Team Members:
 Coder: madmax3004
+
 Coder: Mathus
+
 Community Management: ITR
+
 XML: Techpriest Antharann
+
 Art: Thain
 
 ## Licensing:
