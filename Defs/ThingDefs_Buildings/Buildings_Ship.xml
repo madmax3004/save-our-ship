@@ -28,7 +28,7 @@
     <description>Spaceworthy hull plating. Designates this tile (and any objects built on it) as part of a ship. Must be placed inside an enclosed room.</description>
     <costList>
       <Steel>3</Steel>
-	  <Plasteel>5</Plasteel>
+	  <Plasteel>1</Plasteel>
     </costList>
     <comps>
       <li Class="CompProperties_ShipPart"/>
@@ -214,8 +214,7 @@
     </stuffCategories>
     <costStuffCount>30</costStuffCount>
     <costList>
-      <Steel>40</Steel>
-      <ComponentSpacer>1</ComponentSpacer>
+      <Steel>20</Steel>
       <ComponentIndustrial>1</ComponentIndustrial>
     </costList>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
@@ -279,7 +278,7 @@
       <Steel>120</Steel>
 			<Uranium>14</Uranium>
 			<ComponentIndustrial>3</ComponentIndustrial>
-      <ComponentSpacer>3</ComponentSpacer>
+      <ComponentSpacer>1</ComponentSpacer>
     </costList>
     <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
     <constructionSkillPrerequisite>8</constructionSkillPrerequisite>
@@ -328,8 +327,8 @@
     <selectable>true</selectable>
     <costList>
       <Steel>200</Steel>
-      <ComponentIndustrial>10</ComponentIndustrial>
-      <ComponentSpacer>5</ComponentSpacer>
+      <ComponentIndustrial>5</ComponentIndustrial>
+      <ComponentSpacer>2</ComponentSpacer>
     </costList>
     <building>
       <shipPart>true</shipPart>
@@ -420,8 +419,7 @@
     <selectable>true</selectable>
     <costList>
       <Steel>200</Steel>
-      <ComponentIndustrial>10</ComponentIndustrial>
-      <ComponentSpacer>5</ComponentSpacer>
+      <ComponentIndustrial>5</ComponentIndustrial>
     </costList>
     <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
     <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
@@ -697,7 +695,7 @@
     <costList>
       <Steel>40</Steel>
       <ComponentIndustrial>2</ComponentIndustrial>
-	  <Plasteel>40</Plasteel>
+	  <Plasteel>20</Plasteel>
     </costList>
     <comps>
       <li Class="CompProperties_Power">
