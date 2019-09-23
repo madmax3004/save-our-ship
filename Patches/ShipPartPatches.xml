@@ -39,7 +39,7 @@
       <li Class="CompProperties_ShipNavigation" />
     </value>
   </Operation>
-
+<!--  commented out until needed
   <Operation Class="PatchOperationAdd">
     <xpath>//ThingDef[defName = "PodLauncher"]/comps</xpath>
     <order>Append</order>
@@ -73,5 +73,5 @@
       </building>
     </value>
   </Operation>
-
+-->
 </Patch>

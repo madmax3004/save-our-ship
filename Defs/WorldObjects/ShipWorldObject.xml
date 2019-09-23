@@ -12,7 +12,7 @@
     <expandingIconTexture>World/WorldObjects/Expanding/Ship</expandingIconTexture>
     <expandingIconPriority>100</expandingIconPriority>
     <expandMore>true</expandMore>
-    <allowCaravanIncidentsWhichGenerateMap>true</allowCaravanIncidentsWhichGenerateMap>
+    <allowCaravanIncidentsWhichGenerateMap>false</allowCaravanIncidentsWhichGenerateMap>
     <inspectorTabs>
     </inspectorTabs>
   </WorldObjectDef>
@@ -28,7 +28,7 @@
       <expandingIconTexture>World/WorldObjects/Expanding/Ship</expandingIconTexture>
       <expandingIconPriority>100</expandingIconPriority>
       <expandMore>true</expandMore>
-      <allowCaravanIncidentsWhichGenerateMap>true</allowCaravanIncidentsWhichGenerateMap>
+      <allowCaravanIncidentsWhichGenerateMap>false</allowCaravanIncidentsWhichGenerateMap>
       <inspectorTabs>
       </inspectorTabs>
     </WorldObjectDef>

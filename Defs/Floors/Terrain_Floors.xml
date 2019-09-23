@@ -5,11 +5,11 @@
 		<label>space</label>
 		<texturePath>Things/Building/Ship/Space</texturePath>
 		<edgeType>Hard</edgeType>
-		<renderPrecedence>340</renderPrecedence>
+		<renderPrecedence>40</renderPrecedence>
     <pathCost>50</pathCost>
     <statBases>
-      <Beauty>-1</Beauty>
-      <Cleanliness>0</Cleanliness>
+      <Beauty>0</Beauty>
+      <Cleanliness>1.0</Cleanliness>
     </statBases>
     <affordances>
       <li>Light</li>
@@ -25,11 +25,11 @@
 		<label>gravity plating</label>
 		<texturePath>Things/Building/Ship/Space</texturePath>
 		<edgeType>Hard</edgeType>
-		<renderPrecedence>340</renderPrecedence>
+		<renderPrecedence>40</renderPrecedence>
     <pathCost>0</pathCost>
     <statBases>
-      <Beauty>0</Beauty>
-      <Cleanliness>0</Cleanliness>
+      <Beauty>1</Beauty>
+      <Cleanliness>0.5</Cleanliness>
     </statBases>
     <affordances>
       <li>Light</li>
