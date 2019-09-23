@@ -1,5 +1,2 @@
-# save-our-ship
-Save Our Ship Mod for Rimworld
-
-
-Example fork for a friend
+# save-our-ship: The Next Generation
+Save Our Ship Mod for Rimworld 1.0
